@@ -1,1 +1,2 @@
 line1 in local repository
+line2 in local added
