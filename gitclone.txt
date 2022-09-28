@@ -1,3 +1,4 @@
 line1 in local repository
 line2 in local added
 line3 in remiote was added
+line4 in local
